@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /editor/
+Disallow: /admin/
+Disallow: /api/
+
+Sitemap: https://pestcontrolnoida.in/sitemap.xml
